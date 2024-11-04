@@ -194,3 +194,8 @@ Icon
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
+
+
+# Added by cargo
+
+/target
